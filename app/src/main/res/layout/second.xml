@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/sahara">
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="20mm"
+        android:layout_height="10mm"
+        android:layout_marginTop="100dp"
+        android:layout_marginStart="20mm"
+        android:text="Button"
+        android:onClick="back"
+        android:textColor="@color/black"
+        android:backgroundTint="@color/blue_clair"
+
+        />
+</LinearLayout>

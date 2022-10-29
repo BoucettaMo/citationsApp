@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ButtonsApplications</string>
+    <string name="red">Red </string>
+    <string name="blue">Blue </string>
+    <string name="green">Green </string>
+    <string name="fire">Fire </string>
+    <string name="air">Air </string>
+    <string name="nature">Nature </string>
+    <string name="neutral">Neutral </string>
+</resources>
